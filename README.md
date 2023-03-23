@@ -1,3 +1,4 @@
-# Github-workflow-testing
+# Github Workflow Testing
+
 Repository for the purpose of practicing Github workflow habits
 new skill: you can clone repos into as many directories in your local machine
