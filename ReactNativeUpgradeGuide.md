@@ -174,3 +174,5 @@ https://reactnative.dev/docs/ram-bundles-inline-requires#inline-requires
 https://reactnative.dev/versions
 
 https://reactnative-archive-august-2023.netlify.app/docs/0.63/ram-bundles-inline-requires#inline-requires
+
+https://copyprogramming.com/howto/how-do-i-check-what-android-version-my-react-native-can-support
