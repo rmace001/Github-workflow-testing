@@ -4,11 +4,11 @@ It should be easy to understand how to win.
 
 ## What to Do
 
-What do you need to do to win? AKA, impress the future version of you?
+What do you need to do to win? AKA, how can you impress your future self?
 
 ### The Process of Inversion
 
-Inversion: A very strong thinking and easy process levering our strong ability to list out problems and identify threats so that we may live to see another day.
+`Inversion`: The cognitive process of identifying and addressing problems or threats to ensure survival.
 
 Many of us already know how to win, simply because we know how to lose. We have much stronger problem-finding skills than solution finding. Let's use our anxiety-driven, threat-finding brain... for something good.
 
