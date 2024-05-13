@@ -45,8 +45,8 @@ Many of us already know how to win, simply because we know how to lose. We have 
    - Not Understand that we are all human and that this is probably difficult for everyone
    - Not emphasize the focus on the green flags
 2. How do we use these things that our brains came up with, to win? WE INVERT THEM.
-   - Impatience -> Patience
-   - Not wait for my turn to speak -> Wait for my turn to speak
+   - Patience
+   - Wait for my turn to speak
    - Always be on time
    - Always be prepared
    - Be confident
