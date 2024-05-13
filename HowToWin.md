@@ -66,7 +66,7 @@ Many of us already know how to win, simply because we know how to lose. We have 
    - Know my values and goals
    - Validate everything
    - Listen and ask questions
-   - Always nsure my message is clear
+   - Always ensure my message is clear
    - Be assertive about my feelings, wants, needs, values, boundaries
    - Only focus on what's in my control
    - Exercise the STOP skill if emotions run high
