@@ -2,6 +2,8 @@
 
 ## paperfriend
 
+Reading academic papers effectively requires understanding their structure, common practices, and some strategies to efficiently extract the key information. Here’s a guide to help you navigate academic papers like an expert. 
+
 ### features
 
 - helps you start the reading of an acamdemic paper
@@ -9,9 +11,6 @@
 - makes the paper reading process seamless by guiding the extraction of key information during reading
 - generates summary notes of the input provided and any specific highlights noted by the reader
 
-#### helpful strategies
-
-Reading academic papers effectively requires understanding their structure, common practices, and some strategies to efficiently extract the key information. Here’s a guide to help you navigate academic papers like an expert:
 
 ### Understanding the Structure
 
