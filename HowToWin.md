@@ -1,6 +1,6 @@
 # How to Win
 
-It should be easy to understand how to win.
+It should be easy to understand [how to win](https://www.youtube.com/watch?v=MNll1BaskLA).
 
 ## What to Do
 
