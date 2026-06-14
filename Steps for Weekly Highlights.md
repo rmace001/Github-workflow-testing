@@ -240,8 +240,8 @@ Use your weekly notes to generate a summary of your highlights and opportunities
 
 ### Paste the Prompt and Pass Context
 
-![paste prompt](../7-Assets/pasteprompt.gif)
+![paste prompt](7-Assets/pasteprompt.gif)
 
 ### Review Results
 
-![paste prompt](../7-Assets/resultGeneration.gif)
+![paste prompt](7-Assets/resultGeneration.gif)
